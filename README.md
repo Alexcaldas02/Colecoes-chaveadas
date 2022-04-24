@@ -10,4 +10,4 @@ Criar uma função que retorna o nome dos membros do Map que tem o papel de `Adm
 3. Dentro do `Getadmin` utilize o loop `for...of` para retornar uma lista com os nomes dos usuários que são administradores.
 
 ## Atividade 2: Sets
-Dado o array `[30 ,30 ,40 ,5 ,223 ,2049 ,3034 ,5]` , retorne outro array apenas com valorres únicos.
+Dado o array `[30 ,30 ,40 ,5 ,223 ,2049 ,3034 ,5]` , retorne outro array apenas com valores únicos.
